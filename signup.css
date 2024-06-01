@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.input-box {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #1ed760;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #24b862;
+}
